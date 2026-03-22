@@ -17,12 +17,6 @@
 ![CSS](https://img.shields.io/badge/CSS-FFB7C5?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB7C5?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-FFB7C5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/notgulzara)
-[![Instagram](https://img.shields.io/badge/Instagram-FFB7C5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notgulzara)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=80&section=footer" />
 
