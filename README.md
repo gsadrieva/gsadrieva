@@ -9,7 +9,7 @@
 
 ---
 
-### 🌸 Tech Stack
+### Tech Stack
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🌸 Socials
+### Socials
 
 <br/>
 
