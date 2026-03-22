@@ -4,10 +4,6 @@
 
 
 <p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty</p>
-
-<br/>
-
----
 ### Tech Stack
 
 
