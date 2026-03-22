@@ -1,16 +1,12 @@
 <div align="center">
 
-<br/>
-
-<h3>Hi, I'm Gulzara 👩‍💻</h3>
-
-<p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty 🇰🇿</p>
+<p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty</p>
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack
+### ------------------Tech Stack------------------
 
 <br/>
 
@@ -27,7 +23,7 @@
 
 ---
 
-### 🌐 Socials
+### ------------------Socials------------------
 
 <br/>
 
