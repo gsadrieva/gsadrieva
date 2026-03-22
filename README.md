@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><b>Software engineer · Narxoz College · Almaty 🇰🇿</b></p>
+<p><b>Software engineer · Narxoz College · Almaty</b></p>
 
 ---
 
