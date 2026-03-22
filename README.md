@@ -8,7 +8,7 @@
 <br/>
 
 ---
-
+### Tech Stack
 
 
 <br/>
@@ -27,7 +27,7 @@
 ---
 
 
-
+###  Socials
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFB7C5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/notgulzara)
