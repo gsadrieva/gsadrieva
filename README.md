@@ -4,7 +4,6 @@
 
 
 <p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty</p>
-### Tech Stack
 
 
 <br/>
@@ -18,12 +17,6 @@
 ![CSS](https://img.shields.io/badge/CSS-FFB7C5?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB7C5?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
-
----
-
-
-###  Socials
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFB7C5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/notgulzara)
