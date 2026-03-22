@@ -2,11 +2,7 @@
 
 <p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty</p>
 
-<br/>
-
----
-
-### ------------------Tech Stack------------------
+### Tech Stack
 
 <br/>
 
@@ -23,13 +19,6 @@
 
 ---
 
-### ------------------Socials------------------
 
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-E91E8C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/notgulzara)
-[![Instagram](https://img.shields.io/badge/Instagram-E91E8C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notgulzara)
-
-<br/>
 
 </div>
