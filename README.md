@@ -2,11 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=120&section=header&text=Hi,%20I'm%20Gulzara%20🌸&fontSize=32&fontColor=ffffff&fontAlignY=60" />
 
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineer-FFB7C5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Narxoz%20College-FFB7C5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Almaty%20🇰🇿-FFB7C5?style=flat-square&logoColor=white" />
-</p>
+
+<p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty</p>
 
 <br/>
 
