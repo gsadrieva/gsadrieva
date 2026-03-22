@@ -2,7 +2,7 @@
 
 <p>Software Engineer &nbsp;·&nbsp; Narxoz College &nbsp;·&nbsp; Almaty</p>
 
-### Tech Stack
+
 
 <br/>
 
